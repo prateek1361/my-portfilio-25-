@@ -1,4 +1,4 @@
 ### 🌐 Portfolio
 
 **Check out my portfolio to explore my projects, skills, and experience:**
-🔗 https://my-portfilio-rose.vercel.app/
+🔗 <a href="https://my-portfilio-rose.vercel.app/" target="_blank"></a>
